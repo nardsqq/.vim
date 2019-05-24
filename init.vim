@@ -16,5 +16,5 @@ Plug 'tpope/vim-sleuth'
 
 Plug 'sheerun/vim-polyglot'
 
-Plug 'connorholyday/vim-snazzy'
+Plug 'morhetz/gruvbox'
 call plug#end()
