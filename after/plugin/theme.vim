@@ -7,6 +7,6 @@ if has('gui_running')
   color ir_black+
 else
   " Settings for when running in the console
-  " color gruvbox
-  " :set bg=dark
+    color gruvbox
+    :set bg=dark
 endif
