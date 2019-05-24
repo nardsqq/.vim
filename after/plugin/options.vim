@@ -9,13 +9,13 @@ set wig+=vendor,log,logs
 
 map <C-n> :NERDTreeToggle<CR>
 
-# Set the number of space characters when tab key is pressed
+" Set the number of space characters when tab key is pressed
 set tabstop=2
 
-# Automatically indent next line
+" Automatically indent next line
 set shiftwidth=2
 
-# Keep the default tab stop size to 2
+" Keep the default tab stop size to 2
 set softtabstop=2
 
 
