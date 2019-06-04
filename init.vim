@@ -17,4 +17,6 @@ Plug 'tpope/vim-sleuth'
 Plug 'sheerun/vim-polyglot'
 
 Plug 'morhetz/gruvbox'
+
+Plug 'itchyny/lightline.vim'
 call plug#end()
