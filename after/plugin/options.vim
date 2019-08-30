@@ -17,5 +17,3 @@ set shiftwidth=2
 
 " Keep the default tab stop size to 2
 set softtabstop=2
-
-
